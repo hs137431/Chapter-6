@@ -8,7 +8,7 @@ public class Triangle {
 		// TODO Auto-generated method stub
 		int a, b;
 		double c;
-		System.out.println("We are going to solve the slope side of a right triangle!")
+		System.out.println("We are going to solve the slope side of a right triangle!");
 		Scanner input = new Scanner(System.in);
 		System.out.print("What will the first side of the triangle be?");
 		a = input.nextInt();
